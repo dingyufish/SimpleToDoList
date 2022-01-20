@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='simpleToDo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='SimpleToDoList_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='simpleToDo_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy capture](https://giphy.com/apps/giphycapture).
 
 ## Notes
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Dingyu Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

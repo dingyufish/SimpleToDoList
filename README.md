@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='SimpleToDoList.git.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='SimpleToDoList_2.git.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleToDoList.git' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleToDoList_2.git' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
